@@ -1,0 +1,2467 @@
+# English translation of PACKAGE.
+# Copyright (C) 2007 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Rolando Espinoza La Fuente <darkrho@gmail.com>, 2007.
+# , fuzzy
+# 
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-06-28 10:39-0400\n"
+"PO-Revision-Date: 2007-06-28 12:20-0400\n"
+"Last-Translator: Rolando Espinoza La Fuente <darkrho@gmail.com>\n"
+"Language-Team: Español <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: index.php:37 includes/common/user_edit.php:29
+msgid "Registro de Ponentes"
+msgstr "Speaker's signup"
+
+#: index.php:55 includes/common/user_edit.php:38
+msgid "Registro de Asistentes"
+msgstr "Attendees' signup"
+
+#: index.php:136
+msgid "Sesión Terminada"
+msgstr "Logout success"
+
+#: index.php:144
+msgid "Tu sesión ha caducado o salido forzosamente."
+msgstr ""
+
+#: index.php:147 includes/admin/room_edit.php:43
+#: includes/admin/admin_delete.php:68 includes/admin/user_delete.php:168
+#: includes/admin/date_edit.php:43 includes/admin/schedule_add.php:93
+#: includes/admin/event_edit.php:102 includes/admin/date_delete.php:79
+#: includes/admin/event_cancel.php:69 includes/admin/room_delete.php:79
+#: includes/admin/event_new.php:43 includes/dbsetup.php:107
+#: includes/dbsetup.php:123 includes/dbsetup.php:128
+#: includes/common/prop_files_edit.php:73 includes/common/prop_edit.php:57
+#: includes/common/prop_files_delete.php:61 includes/common/prop_delete.php:71
+#: includes/common/register_flag_check.php:41 includes/common/user_edit.php:72
+#: includes/common/do_logout.php:43
+msgid "Continuar"
+msgstr "Continue"
+
+#: index.php:160 includes/speaker_views.php:141 includes/person_views.php:45
+#: templates/admin_menu.tmpl.php:52 templates/main_index.tmpl.php:27
+msgid "Programa preliminar"
+msgstr "Preliminary schedule"
+
+#: index.php:162 index.php:180 index.php:205 index.php:252
+#: includes/admin/room_edit.php:60 includes/admin/admin_delete.php:80
+#: includes/admin/user_delete.php:179 includes/admin/date_edit.php:60
+#: includes/admin/schedule_add.php:127 includes/admin/schedule_add.php:132
+#: includes/admin/event_edit.php:113 includes/admin/event_edit.php:137
+#: includes/admin/date_delete.php:91 includes/admin/event_cancel.php:81
+#: includes/admin/event_update_info.php:29
+#: includes/admin/event_update_info.php:85 includes/admin/room_delete.php:91
+#: includes/common/prop_view.php:65 includes/common/prop_view.php:85
+#: includes/common/prop_view.php:92 includes/common/prop_view.php:114
+#: includes/common/prop_files_edit.php:85
+#: includes/common/prop_files_delete.php:73 includes/common/prop_files.php:98
+#: includes/common/prop_files.php:109 includes/common/prop_delete.php:83
+#: includes/common/prop_files_download.php:70 includes/common/signout.php:35
+#: includes/speaker_views.php:51 includes/speaker_views.php:149
+#: includes/speaker_views.php:156 includes/admin_views.php:42
+#: includes/admin_views.php:51 includes/admin_views.php:60
+#: includes/admin_views.php:69 includes/admin_views.php:85
+#: includes/admin_views.php:108 includes/admin_views.php:147
+#: includes/admin_views.php:227 includes/admin_views.php:284
+#: includes/admin_views.php:315 includes/admin_views.php:464
+#: includes/admin_views.php:492 includes/person_views.php:52
+#: includes/person_views.php:88
+msgid "Regresar"
+msgstr "Back"
+
+#: index.php:171 includes/speaker_views.php:42
+#: templates/speaker_menu.tmpl.php:12
+msgid "Lista de propuestas enviadas"
+msgstr "Proposals list"
+
+#: index.php:189 includes/speaker_views.php:73 includes/person_views.php:74
+msgid "Detalles de propuesta"
+msgstr "Proposal details"
+
+#: index.php:203 templates/main_index.tmpl.php:33
+msgid "Modalidades de participación"
+msgstr ""
+
+#: index.php:250 includes/speaker_views.php:154 includes/admin_views.php:490
+#: includes/person_views.php:86
+msgid "Página no encontrada"
+msgstr "Page not found"
+
+#: includes/auth/drupal.php:18
+msgid "Ocurrió un error al conectar a la base de datos de drupal."
+msgstr ""
+
+#: includes/filelib.php:554
+msgid "El archivo ya no existe."
+msgstr ""
+
+#: includes/admin/admin_list.php:16 includes/admin_views.php:406
+msgid "Lista de administradores"
+msgstr "Administrators list"
+
+#: includes/admin/admin_list.php:22
+msgid "Administradores registrados"
+msgstr "Administrators"
+
+#: includes/admin/admin_list.php:30 includes/common/user_list.php:52
+#: includes/common/user_list.php:54
+msgid "Login"
+msgstr "Login"
+
+#: includes/admin/admin_list.php:30 includes/admin/room_list.php:21
+#: includes/admin/config_reg_flags.php:10 includes/admin/event_list.php:20
+#: includes/admin/room_display_info.php:13 includes/common/user_list.php:52
+#: includes/common/user_list.php:54 includes/common/prop_files_display.php:19
+msgid "Nombre"
+msgstr "Name"
+
+#: includes/admin/admin_list.php:30 includes/common/user_display_info.php:48
+#: includes/common/user_display_info.php:63
+#: includes/common/user_display_info.php:98
+msgid "Apellidos"
+msgstr "Last Name"
+
+#: includes/admin/admin_list.php:30
+msgid "Correo"
+msgstr "Email"
+
+#: includes/admin/admin_list.php:30
+msgid "Tipo admin"
+msgstr "Admin level"
+
+#: includes/admin/admin_list.php:55 includes/admin/room_list.php:38
+#: includes/admin/admin_delete.php:30 includes/admin/user_delete.php:65
+#: includes/admin/date_list.php:37 includes/admin/date_delete.php:29
+#: includes/admin/room_delete.php:29 includes/common/prop_list.php:125
+#: includes/common/prop_list.php:239 includes/common/prop_files_delete.php:42
+#: includes/common/prop_delete.php:44 includes/common/user_list.php:68
+#: includes/common/prop_files_display.php:32
+msgid "Eliminar"
+msgstr "Delete"
+
+#: includes/admin/admin_list.php:75
+msgid "No se encontro ningún usuario."
+msgstr "No user found"
+
+#: includes/admin/admin_list.php:80 includes/admin/config_manager.php:57
+#: includes/admin/catalog_manager.php:62 includes/common/user_kardex.php:86
+#: includes/common/user_edit.php:90 includes/admin_views.php:192
+#: includes/admin_views.php:249 includes/admin_views.php:349
+msgid "Regresar al Menu"
+msgstr "Back to menu"
+
+#: includes/admin/room_edit.php:22
+msgid "Añadir lugar para eventos"
+msgstr "Add room for events"
+
+#: includes/admin/room_edit.php:26
+msgid "Modificar lugar para eventos"
+msgstr "Edit room for events"
+
+#: includes/admin/room_edit.php:52 includes/admin/date_edit.php:52
+#: includes/admin/event_edit.php:121 includes/admin/event_new.php:52
+#: includes/common/prop_edit.php:66 includes/common/user_edit.php:114
+msgid "Los campos marcados con asterisco(*) son obligatorios"
+msgstr ""
+
+#: includes/admin/room_edit.php:58 includes/admin/date_edit.php:58
+#: includes/admin/event_edit.php:135 includes/admin/event_new.php:58
+#: includes/common/prop_edit.php:72 includes/common/user_edit.php:124
+msgid "Registrar"
+msgstr "Save"
+
+#: includes/admin/room_edit.php:58 includes/admin/admin_delete.php:30
+#: includes/admin/user_delete.php:65 includes/admin/date_edit.php:58
+#: includes/admin/event_edit.php:135 includes/admin/date_delete.php:29
+#: includes/admin/event_list.php:155 includes/admin/event_cancel.php:81
+#: includes/admin/room_delete.php:29 includes/admin/event_new.php:58
+#: includes/common/display_login_form.php:27
+#: includes/common/prop_files_edit.php:41 includes/common/prop_edit.php:72
+#: includes/common/prop_edit.php:74 includes/common/prop_files_delete.php:42
+#: includes/common/prop_delete.php:44 includes/common/user_edit.php:131
+msgid "Cancelar"
+msgstr "Cancel"
+
+#: includes/admin/room_edit.php:60 includes/admin/config_manager.php:42
+#: includes/admin/config_manager.php:49 includes/admin/date_edit.php:60
+#: includes/admin/event_edit.php:137 includes/admin/catalog_manager.php:53
+#: includes/common/prop_files_edit.php:41
+msgid "Guardar"
+msgstr "Save"
+
+#: includes/admin/room_optional_params_check.php:9
+#: includes/admin/date_optional_params_check.php:9
+#: includes/admin/event_optional_params_check.php:20
+#: includes/common/prop_optional_params_check.php:19
+#: includes/common/user_optional_params_check.php:48
+msgid ""
+"Verifica que los datos obligatorios los hayas introducido correctamente."
+msgstr ""
+
+#: includes/admin/room_optional_params_check.php:17
+msgid "El nombre del lugar ya ha sido dado de alta."
+msgstr ""
+
+#: includes/admin/room_list.php:10
+msgid "Listado de lugar para eventos"
+msgstr "Rooms list"
+
+#: includes/admin/room_list.php:16
+msgid "Lugares registrados"
+msgstr "Rooms records"
+
+#: includes/admin/room_list.php:21 includes/admin/event_list.php:21
+#: includes/admin/room_display_info.php:14
+msgid "Ubicación"
+msgstr "Location"
+
+#: includes/admin/room_list.php:21
+msgid "Disp."
+msgstr "Avail."
+
+#: includes/admin/room_list.php:35 includes/admin/date_list.php:34
+msgid "Eventos registrados"
+msgstr "Events recorded"
+
+#: includes/admin/room_list.php:56 includes/admin/date_list.php:54
+msgid "No se encontraron lugares registrados."
+msgstr "Rooms not found."
+
+#: includes/admin/date_input_table.php:20
+#: includes/admin/event_input_table.php:69
+msgid "Fecha de evento:"
+msgstr "Date:"
+
+#: includes/admin/date_input_table.php:28
+#: includes/admin/event_input_table.php:26
+#: includes/common/prop_files_input.php:24
+msgid "Descripción:"
+msgstr "Description:"
+
+#: includes/admin/user_action.php:23 includes/admin/admin_action.php:19
+msgid "Se ha actualizado el tipo de administrador para el usuario"
+msgstr ""
+
+#: includes/admin/user_action.php:25
+msgid "Ocurrió un error al actualizar cambiar el estado del registro"
+msgstr ""
+
+#: includes/admin/catalog_update_info.php:12
+msgid "Hubo un error al actualizar los datos."
+msgstr ""
+
+#: includes/admin/catalog_update_info.php:19
+msgid "Datos actualizados."
+msgstr "Record updated."
+
+#: includes/admin/schedule_display.php:69
+msgid "Añadir Evento"
+msgstr "Add event"
+
+#: includes/admin/schedule_display.php:87 includes/admin/event_cancel.php:17
+#: includes/admin_views.php:363
+msgid "Cancelar evento"
+msgstr "Cancel event"
+
+#: includes/admin/room_update_info.php:15
+#: includes/admin/date_update_info.php:15
+msgid "No se pudo insertar/actualizar los datos."
+msgstr ""
+
+#: includes/admin/admin_filter_input.php:10
+#: includes/common/prop_filter_input.php:62
+#: includes/common/prop_filter_input.php:73
+#: includes/common/prop_filter_input.php:89
+#: includes/common/prop_filter_input.php:103
+msgid "Tipo:"
+msgstr "Type:"
+
+#: includes/admin/admin_filter_input.php:12
+#: includes/common/user_filter_input.php:23
+#: includes/common/user_filter_input.php:33
+#: includes/common/prop_filter_input.php:63
+#: includes/common/prop_filter_input.php:74
+#: includes/common/prop_filter_input.php:90
+#: includes/common/prop_filter_input.php:104
+msgid "Filtro:"
+msgstr "Filter:"
+
+#: includes/admin/admin_delete.php:13
+msgid "Eliminar Administrador"
+msgstr "Delete Administrator"
+
+#: includes/admin/admin_delete.php:50
+msgid "Ocurrió un error al intentar eliminar el registro."
+msgstr ""
+
+#: includes/admin/admin_delete.php:57 includes/admin/user_delete.php:156
+#: includes/admin/room_delete.php:66 includes/common/prop_delete.php:60
+msgid "Ocurrio un error al eleminar el registro."
+msgstr ""
+
+#: includes/admin/admin_delete.php:63
+msgid ""
+"El administrador fue eliminado exitosamente. Las propuestas que ha "
+"autorizado han sido asiganadas al administrador principal."
+msgstr ""
+
+#: includes/admin/admin_delete.php:74
+msgid "Administrador no encontrada"
+msgstr "Admin not found"
+
+#: includes/admin/admin_delete.php:77 includes/admin/user_delete.php:175
+msgid "El usuario no existe."
+msgstr "User not found."
+
+#: includes/admin/config_manager.php:11
+msgid "Configuración de Yupana"
+msgstr "Yupana Configuration"
+
+#: includes/admin/config_manager.php:28
+msgid "Valores del Sistema"
+msgstr "System configuration"
+
+#: includes/admin/config_manager.php:38
+msgid "Información General"
+msgstr "General information"
+
+#: includes/admin/config_manager.php:45
+msgid "Configuración Adicional"
+msgstr "Extra configuration"
+
+#: includes/admin/config_action.php:18 templates/main_index.tmpl.php:6
+msgid "Registro de ponentes"
+msgstr "Speaker's Signup"
+
+#: includes/admin/config_action.php:22 templates/main_index.tmpl.php:11
+msgid "Registro de asistentes"
+msgstr "Attendees Signup"
+
+#: includes/admin/config_action.php:26
+msgid "Registro de ponencias"
+msgstr "Proposals bid"
+
+#: includes/admin/config_action.php:30
+msgid "Inscripción a Talleres/Tutoriales"
+msgstr ""
+
+#: includes/admin/config_action.php:38 includes/admin/config_reg_flags.php:13
+msgid "Abierto"
+msgstr "Open"
+
+#: includes/admin/config_action.php:43 includes/admin/config_reg_flags.php:13
+msgid "Cerrado"
+msgstr "Closed"
+
+#: includes/admin/config_action.php:48
+msgid "El Registro se ha "
+msgstr "The record has been"
+
+#: includes/admin/config_action.php:50 includes/admin/prop_action.php:34
+msgid "Ocurrió un error al cambiar el estado del registro"
+msgstr ""
+
+#: includes/admin/event_input_table.php:16
+msgid "Nombre del evento:"
+msgstr "Event name:"
+
+#: includes/admin/event_input_table.php:35
+#: includes/common/prop_filter_input.php:89
+#: includes/common/prop_filter_input.php:103
+#: includes/common/prop_input_table.php:40
+msgid "Orientación:"
+msgstr "Track:"
+
+#: includes/admin/event_input_table.php:44
+msgid "Tipo de evento:"
+msgstr "Type:"
+
+#: includes/admin/event_input_table.php:65
+msgid "No se encuentra ninguna fecha registrada"
+msgstr ""
+
+#: includes/admin/event_input_table.php:91 includes/admin/schedule_view.php:30
+msgid "No se encuentra ningún lugar registrado"
+msgstr ""
+
+#: includes/admin/event_input_table.php:95
+msgid "Lugar de evento:"
+msgstr "Room:"
+
+#: includes/admin/event_input_table.php:104
+msgid "Hora:"
+msgstr "Hour:"
+
+#: includes/admin/event_input_table.php:113
+#: includes/common/prop_input_table.php:72
+msgid "Duración:"
+msgstr "Duration:"
+
+#: includes/admin/event_input_table.php:124
+msgid "Selecciona \"Si\" para reservar la hora en todos los lugares."
+msgstr ""
+
+#: includes/admin/event_input_table.php:127
+msgid "Evento extraordinario:"
+msgstr ""
+
+#: includes/admin/schedule_view.php:8
+msgid "Programa Preliminar"
+msgstr "Preliminary Schedule"
+
+#: includes/admin/schedule_view.php:10
+msgid "* sujeto a cambios * "
+msgstr ""
+
+#: includes/admin/schedule_view.php:28
+msgid "No se encuentra ninguna fecha registrada."
+msgstr ""
+
+#: includes/admin/schedule_view.php:88
+msgid "Hora\\Lugar"
+msgstr "Hour\\Room"
+
+#: includes/admin/schedule_view.php:133
+msgid "Todavía no se tienen eventos programados."
+msgstr ""
+
+#: includes/admin/config_reg_flags.php:10
+#: includes/admin/catalog_manager.php:11 includes/common/prop_list.php:72
+#: includes/common/prop_list.php:100 includes/common/user_display_info.php:92
+#: includes/common/user_list.php:52
+msgid "Estado"
+msgstr "State"
+
+#: includes/admin/config_reg_flags.php:10
+msgid "Acción"
+msgstr "Action"
+
+#: includes/admin/config_reg_flags.php:17
+msgid "Cerrar"
+msgstr "Close"
+
+#: includes/admin/config_reg_flags.php:17
+msgid "Abrir"
+msgstr "Open"
+
+#: includes/admin/user_delete.php:10 includes/common/user_view.php:21
+#: includes/common/signout.php:24 includes/common/do_logout.php:19
+msgid "Asistente"
+msgstr "Attendee"
+
+#: includes/admin/user_delete.php:19 includes/common/prop_list.php:81
+#: includes/common/user_view.php:12 includes/common/signout.php:22
+#: includes/common/do_logout.php:14
+msgid "Ponente"
+msgstr "Speaker"
+
+#: includes/admin/user_delete.php:23
+msgid ""
+"No puedes eliminar este usuario, esta reservado como administrador de "
+"eventos."
+msgstr ""
+
+#: includes/admin/user_delete.php:33 includes/common/signout.php:20
+#: includes/common/do_logout.php:9
+msgid "Administrador"
+msgstr "Administrator"
+
+#: includes/admin/user_delete.php:36
+msgid "No puedes eliminar al administrador principal."
+msgstr ""
+
+#: includes/admin/user_delete.php:72
+msgid "Propuestas Enviadas"
+msgstr "Proposals recieved"
+
+#: includes/admin/user_delete.php:134
+msgid ""
+"Las ponencias que el usuario ha enviado han sido eliminadas, los eventos "
+"relacionados y los inscritos a sus talleres."
+msgstr ""
+
+#: includes/admin/user_delete.php:151
+msgid "Los espacios que ocupaba en los talleres han sido liberados."
+msgstr ""
+
+#: includes/admin/user_delete.php:162
+msgid "fue eliminado exitosamente."
+msgstr ""
+
+#: includes/admin/date_edit.php:22
+msgid "Añadir fecha para eventos"
+msgstr "Add event's date"
+
+#: includes/admin/date_edit.php:26
+msgid "Modificar fecha para eventos"
+msgstr "Edit event's date"
+
+#: includes/admin/date_optional_params_check.php:17
+msgid "La fecha que elegiste ya ha sido dado de alta."
+msgstr ""
+
+#: includes/admin/date_list.php:10
+msgid "Listado de fechas para eventos"
+msgstr ""
+
+#: includes/admin/date_list.php:16
+msgid "Fechas registradas"
+msgstr "Currnet dates"
+
+#: includes/admin/date_list.php:21 includes/admin/schedule_add.php:114
+#: includes/admin/event_list.php:37 includes/admin/event_list.php:66
+#: includes/common/user_kardex.php:59 includes/common/prop_display_info.php:53
+msgid "Fecha"
+msgstr "Date"
+
+#: includes/admin/date_list.php:21 includes/admin/event_list.php:38
+#: includes/common/prop_files_display_info.php:10
+#: includes/common/prop_files_display.php:19
+msgid "Descripción"
+msgstr "Description"
+
+#: includes/admin/date_display_info.php:9
+msgid "Fecha de evento: "
+msgstr "Event's date: "
+
+#: includes/admin/date_display_info.php:10
+msgid "Descripción: "
+msgstr "Description: "
+
+#: includes/admin/schedule_add.php:10
+msgid "Programar Evento"
+msgstr "Schedule event"
+
+#: includes/admin/schedule_add.php:30
+msgid "La ponencia que seleccionaste no existe."
+msgstr "The proposal does not exists"
+
+#: includes/admin/schedule_add.php:34
+msgid "No se puede asignar esta ponencia."
+msgstr ""
+
+#: includes/admin/schedule_add.php:42
+msgid "El lugar no existe."
+msgstr "Room unknown"
+
+#: includes/admin/schedule_add.php:46
+msgid "La fecha no existe."
+msgstr "Date unknown"
+
+#: includes/admin/schedule_add.php:51
+msgid "La hora que elegiste queda fuera de la duración del evento."
+msgstr ""
+
+#: includes/admin/schedule_add.php:57
+msgid "Esta fecha, hora y lugar ya tiene un evento programado."
+msgstr ""
+
+#: includes/admin/schedule_add.php:89
+msgid "El evento ha sido añadido con éxito."
+msgstr ""
+
+#: includes/admin/schedule_add.php:96
+msgid "Ocurrió un error al insertar los datos."
+msgstr ""
+
+#: includes/admin/schedule_add.php:113 includes/admin/event_list.php:62
+#: includes/admin/event_list.php:70 includes/common/user_kardex.php:61
+#: includes/common/prop_display_info.php:54
+msgid "Lugar"
+msgstr "Room"
+
+#: includes/admin/schedule_add.php:115 includes/admin/event_list.php:62
+#: includes/admin/event_list.php:66 includes/admin/event_list.php:70
+#: includes/common/user_kardex.php:60 includes/common/prop_display_info.php:55
+msgid "Hora"
+msgstr "Hour"
+
+#: includes/admin/schedule_add.php:121
+msgid "Ponencias disponibles"
+msgstr "Available talks"
+
+#: includes/admin/catalog_optional_params.php:28
+msgid "No puedes dejar vacía ninguna descripción."
+msgstr ""
+
+#: includes/admin/event_edit.php:29
+msgid ""
+"No puede modificar este evento. Es utilizado para reservar hora y lugar para "
+"eventos principales."
+msgstr ""
+
+#: includes/admin/event_edit.php:34
+msgid "Evento no encontrado."
+msgstr "Event not found"
+
+#: includes/admin/event_edit.php:59
+msgid "Registrar Evento"
+msgstr "Add event"
+
+#: includes/admin/event_edit.php:63
+msgid "Modificar Evento"
+msgstr "Edit event"
+
+#: includes/admin/event_edit.php:84
+msgid ""
+"Evento agregado, ahora ya esta disponible para inscripción en caso de ser "
+"taller/tutorial."
+msgstr ""
+
+#: includes/admin/event_edit.php:92
+msgid "Evento modificado."
+msgstr "Event updated."
+
+#: includes/admin/catalog_manager.php:9
+msgid "Tipos de administrador"
+msgstr "Administrator type"
+
+#: includes/admin/catalog_manager.php:10
+msgid "Tipos de asistente"
+msgstr "Attendees type:"
+
+#: includes/admin/catalog_manager.php:12
+#: includes/common/user_display_info.php:67
+#: includes/common/user_display_info.php:89
+#: includes/common/user_display_info.php:102 includes/common/user_list.php:54
+msgid "Estudios"
+msgstr "Education"
+
+#: includes/admin/catalog_manager.php:13
+msgid "Tipos de propuesta"
+msgstr "Proposals type"
+
+#: includes/admin/catalog_manager.php:14
+msgid "Orientaciones de propuesta"
+msgstr "Proposals track"
+
+#: includes/admin/catalog_manager.php:15
+msgid "Niveles de propuesta"
+msgstr "Proposals levels"
+
+#: includes/admin/catalog_manager.php:16
+msgid "Estados de propuesta"
+msgstr "Proposals status"
+
+#: includes/admin/catalog_manager.php:21
+msgid "Administrar Catálogos"
+msgstr "Catalog Manager"
+
+#: includes/admin/date_delete.php:15
+msgid "Eliminar fecha para eventos"
+msgstr ""
+
+#: includes/admin/date_delete.php:66
+msgid "Ocurrio un error al eliminar el registro."
+msgstr ""
+
+#: includes/admin/date_delete.php:72
+msgid ""
+"La fecha ha sido eliminada exitosamente.\n"
+"Los espacios que ocupaban los asistentes inscritos en los talleres has sido "
+"liberados.\n"
+"Las ponencias registradas relacionadas con la fecha han sido cambiadas de "
+"estado a \"Aceptada\" para su nueva asignación."
+msgstr ""
+
+#: includes/admin/date_delete.php:85 includes/admin/room_delete.php:85
+msgid "Lugar no encontrado"
+msgstr "Room not found"
+
+#: includes/admin/date_delete.php:88
+msgid ""
+"Registros de la fecha no encontrados. Posiblemente no existan o no tengas "
+"acceso para eliminarlo."
+msgstr ""
+
+#: includes/admin/event_list.php:17
+msgid "Salón para Conferencias"
+msgstr "Conferences room"
+
+#: includes/admin/event_list.php:17
+msgid "Aula para Talleres y/o Tutoriales"
+msgstr ""
+
+#: includes/admin/event_list.php:22 includes/admin/event_list.php:62
+#: includes/admin/event_list.php:66 includes/admin/event_list.php:70
+#: includes/common/prop_list.php:72 includes/common/prop_list.php:77
+#: includes/common/prop_list.php:81 includes/common/prop_list.php:85
+#: includes/common/prop_list.php:89 includes/common/prop_list.php:93
+#: includes/common/prop_list.php:100 includes/common/user_list.php:52
+msgid "Tipo"
+msgstr "Type"
+
+#: includes/admin/event_list.php:62 includes/admin/event_list.php:66
+#: includes/admin/event_list.php:70 includes/common/prop_list.php:72
+#: includes/common/prop_list.php:77 includes/common/prop_list.php:81
+#: includes/common/prop_list.php:85 includes/common/prop_list.php:89
+#: includes/common/prop_list.php:93 includes/common/prop_list.php:100
+msgid "Ponencia"
+msgstr "Talk"
+
+#: includes/admin/event_list.php:62 includes/admin/event_list.php:66
+msgid "Cupo"
+msgstr "Limit"
+
+#: includes/admin/event_list.php:144
+#, php-format
+msgid "%d de %d"
+msgstr "%d of %d"
+
+#: includes/admin/event_list.php:151 includes/common/user_list.php:24
+#: templates/person_menu.tmpl.php:1
+msgid "Asistentes"
+msgstr "Attendees"
+
+#: includes/admin/event_list.php:159
+msgid "Reprogramar"
+msgstr "New schedule"
+
+#: includes/admin/event_list.php:228
+msgid "No se encontraron eventos registrados."
+msgstr ""
+
+#: includes/admin/event_cancel.php:19
+msgid ""
+"Esta acción liberará el espacio ocupado en el programa por este evento\n"
+"y le asignará el status de <em>Cancelada</em>. Las inscripciones de los "
+"asistentes que pudieran\n"
+"tener este evento serán eliminadas."
+msgstr ""
+
+#: includes/admin/event_cancel.php:34
+msgid "Ocurrió un error al eliminar los espacios ocupados."
+msgstr ""
+
+#: includes/admin/event_cancel.php:41
+msgid "Ocurrió un error al eliminar las suscripciones."
+msgstr ""
+
+#: includes/admin/event_cancel.php:48
+msgid "Ocurrió un error al eliminar el evento"
+msgstr ""
+
+#: includes/admin/event_cancel.php:59
+msgid "Ocurrió un error al cancelar la propuesta."
+msgstr ""
+
+#: includes/admin/event_cancel.php:63
+msgid ""
+"El evento ha sido cancelado. Los espacios e suscripciones han sido liberados."
+msgstr ""
+
+#: includes/admin/config_optional_params_check.php:17
+msgid "Asegúrate de llenar correctamente la información del sitio."
+msgstr ""
+
+#: includes/admin/config_input_general.php:24
+msgid "Nombre del Evento"
+msgstr "Event name:"
+
+#: includes/admin/config_input_general.php:25
+msgid "URL del Evento"
+msgstr "Event webpage"
+
+#: includes/admin/config_input_general.php:26
+msgid "Email de Contacto"
+msgstr "Contact email"
+
+#: includes/admin/config_input_general.php:27
+msgid "Email automático"
+msgstr "Automatic email"
+
+#: includes/admin/config_input_general.php:28
+msgid "URL del Sistema"
+msgstr "Yupana URL"
+
+#: includes/admin/config_update_info.php:10
+#: includes/common/user_update_info.php:98
+msgid "Información actualizada."
+msgstr "Records updated."
+
+#: includes/admin/room_display_info.php:10
+msgid "Salón para conferencias"
+msgstr "Conferences room"
+
+#: includes/admin/room_display_info.php:10
+#, php-format
+msgid "%s personas"
+msgstr "%s people"
+
+#: includes/admin/room_display_info.php:15
+msgid "Capacidad"
+msgstr "Limit"
+
+#: includes/admin/config_input_system.php:6
+msgid "Mostrar el programa de eventos publicamente"
+msgstr "Public schedule"
+
+#: includes/admin/config_input_system.php:13
+msgid "Mostrar las propuestas publicamente"
+msgstr "Public proposals"
+
+#: includes/admin/config_input_system.php:20
+msgid "Un usuario por email"
+msgstr "One user per email"
+
+#: includes/admin/config_input_system.php:27
+msgid "Número máximo de asistentes a talleres/tutoriales"
+msgstr ""
+
+#: includes/admin/config_input_system.php:34
+msgid "Hora de inicio"
+msgstr "Start hour"
+
+#: includes/admin/config_input_system.php:41
+msgid "Hora de fin"
+msgstr "End hour"
+
+#: includes/admin/config_input_system.php:49
+msgid "Enviar mensajes por email"
+msgstr "Enable email send"
+
+#: includes/admin/config_input_system.php:57
+msgid "Servidor SMTP"
+msgstr "SMTP Server"
+
+#: includes/admin/config_input_system.php:64
+msgid "Usar URLs limpios"
+msgstr "Clean URLs"
+
+#: includes/admin/config_input_system.php:69
+msgid "Necesitas soporte para mod_rewrite"
+msgstr ""
+
+#: includes/admin/config_input_system.php:69
+msgid "Prueba"
+msgstr "Test"
+
+#: includes/admin/config_input_system.php:80 includes/common/prop_list.php:224
+#: includes/common/prop_files_display_info.php:12
+#: includes/common/prop_files_display.php:22
+msgid "Si"
+msgstr "Yes"
+
+#: includes/admin/config_input_system.php:80 includes/common/prop_list.php:226
+#: includes/common/prop_files_display_info.php:12
+#: includes/common/user_list.php:79 includes/common/prop_files_display.php:22
+#: includes/displaylib.php:252
+msgid "No"
+msgstr "No"
+
+#: includes/admin/config_input_system.php:85
+msgid "Autentificación"
+msgstr "Authentification"
+
+#: includes/admin/config_input_system.php:99
+msgid "Interna"
+msgstr "Internal"
+
+#: includes/admin/config_input_system.php:104
+msgid "Lenguaje por defecto"
+msgstr "Default language"
+
+#: includes/admin/event_update_info.php:11
+msgid "No se pudo insertar los datos. Por favor contacte a su administrador."
+msgstr ""
+
+#: includes/admin/event_update_info.php:28
+msgid "No se pudo insertar los datos."
+msgstr ""
+
+#: includes/admin/event_update_info.php:37
+msgid "No se pudo insertar los datos. Por favor contacte su administrador."
+msgstr ""
+
+#: includes/admin/event_update_info.php:84
+msgid "No se pudo actualizar los datos."
+msgstr ""
+
+#: includes/admin/room_delete.php:15
+msgid "Eliminar lugar para eventos"
+msgstr "Delete room"
+
+#: includes/admin/room_delete.php:72
+msgid ""
+"El lugar para eventos fue eliminado exitosamente.\n"
+"Los espacios que ocupaban los asistentes inscritos en los talleres has sido "
+"liberados.\n"
+"Las ponencias registradas relacionadas con el lugar han sido cambiadas de "
+"estado a \"Aceptada\" para su nueva asignación."
+msgstr ""
+
+#: includes/admin/room_delete.php:88
+msgid ""
+"Registros del lugar no encontrados. Posiblemente no existan o no tengas "
+"acceso para eliminarlo."
+msgstr ""
+
+#: includes/admin/event_new.php:15
+msgid "Registro de Evento"
+msgstr "Add event"
+
+#: includes/admin/event_new.php:33
+msgid "Evento organización agregado."
+msgstr ""
+
+#: includes/admin/prop_action.php:32
+msgid "Se ha actualizado el estado de la ponencia"
+msgstr ""
+
+#: includes/admin/admin_action.php:21
+msgid "Ocurrió un error al actualizar el tipo de administrador del usuario"
+msgstr ""
+
+#: includes/admin/event_optional_params_check.php:44
+msgid "La duración de esta ponencia supera la hora final del evento."
+msgstr ""
+
+#: includes/admin/event_optional_params_check.php:81
+#: includes/admin/event_optional_params_check.php:114
+msgid "Evento en Conflicto"
+msgstr "Conflict event"
+
+#: includes/admin/event_optional_params_check.php:83
+msgid ""
+"No se puede reservar los demás lugares. Existe un conflicto en la hora y "
+"fecha escogida: "
+msgstr ""
+
+#: includes/admin/event_optional_params_check.php:116
+msgid ""
+"La fecha, hora y lugar que elegiste tiene conflictos con otro evento ya "
+"programado: "
+msgstr ""
+
+#: includes/admin/room_input_table.php:14
+msgid "Nombre:"
+msgstr "Name:"
+
+#: includes/admin/room_input_table.php:22
+msgid "Ubicación:"
+msgstr "Location:"
+
+#: includes/admin/room_input_table.php:28
+msgid "Vacío si es lugar para conferencias"
+msgstr "Empty for conferences room"
+
+#: includes/admin/room_input_table.php:31
+msgid "Capacidad:"
+msgstr "Capacity:"
+
+#: includes/lib.php:298 includes/common/new_user_send_mail.php:16
+msgid "asistente"
+msgstr "attendee"
+
+#: includes/lib.php:302
+msgid "ponente"
+msgstr "speaker"
+
+#: includes/lib.php:323
+#, php-format
+msgid "%s: Cambio de contraseña %s"
+msgstr "%s: New password %s"
+
+#: includes/lib.php:328
+#, php-format
+msgid "Has solicitado cambio de contraseña para el usuario %s\n"
+msgstr "You have requested new password for user %s\n"
+
+#: includes/lib.php:329
+msgid "Para confirmarlo ingrese a la siguiente dirección:\n"
+msgstr ""
+
+#: includes/lib.php:360 includes/lib.php:403
+msgid "Enero"
+msgstr "January"
+
+#: includes/lib.php:361 includes/lib.php:404
+msgid "Febrero"
+msgstr ""
+
+#: includes/lib.php:362 includes/lib.php:405
+msgid "Marzo"
+msgstr "March"
+
+#: includes/lib.php:363 includes/lib.php:406
+msgid "Abril"
+msgstr "April"
+
+#: includes/lib.php:364 includes/lib.php:407
+msgid "Mayo"
+msgstr "May"
+
+#: includes/lib.php:365 includes/lib.php:408
+msgid "Junio"
+msgstr "June"
+
+#: includes/lib.php:366 includes/lib.php:409
+msgid "Julio"
+msgstr "July"
+
+#: includes/lib.php:367 includes/lib.php:410
+msgid "Agosto"
+msgstr "August"
+
+#: includes/lib.php:368 includes/lib.php:411
+msgid "Septiembre"
+msgstr "September"
+
+#: includes/lib.php:369 includes/lib.php:412
+msgid "Octubre"
+msgstr "October"
+
+#: includes/lib.php:370 includes/lib.php:413
+msgid "Noviembre"
+msgstr "November"
+
+#: includes/lib.php:371 includes/lib.php:414
+msgid "Diciembre"
+msgstr "December"
+
+#: includes/lib.php:373
+msgid "Ene"
+msgstr ""
+
+#: includes/lib.php:374
+msgid "Abr"
+msgstr ""
+
+#: includes/lib.php:375
+msgid "Ago"
+msgstr ""
+
+#: includes/lib.php:376
+msgid "Dic"
+msgstr ""
+
+#: includes/lib.php:378
+msgid "Lunes"
+msgstr "Monday"
+
+#: includes/lib.php:379
+msgid "Martes"
+msgstr "Tuesday"
+
+#: includes/lib.php:380
+msgid "Miércoles"
+msgstr "Wednesday"
+
+#: includes/lib.php:381
+msgid "Jueves"
+msgstr "Thursday"
+
+#: includes/lib.php:382
+msgid "Viernes"
+msgstr "Friday"
+
+#: includes/lib.php:383
+msgid "Sábado"
+msgstr "Saturday"
+
+#: includes/lib.php:384
+msgid "Domingo"
+msgstr "Sunday"
+
+#: includes/lib.php:386
+msgid "Lun"
+msgstr ""
+
+#: includes/lib.php:387
+msgid "Mar"
+msgstr ""
+
+#: includes/lib.php:388
+msgid "Mie"
+msgstr ""
+
+#: includes/lib.php:389
+msgid "Jue"
+msgstr ""
+
+#: includes/lib.php:390
+msgid "Vie"
+msgstr ""
+
+#: includes/lib.php:391
+msgid "Sab"
+msgstr ""
+
+#: includes/lib.php:392
+msgid "Dom"
+msgstr ""
+
+#: includes/dbsetup.php:97
+msgid "Su base de datos necesita actualizarse."
+msgstr "Your database need to upgrade."
+
+#: includes/dbsetup.php:98 includes/common/prop_edit.php:74
+#: includes/common/user_edit.php:128
+#: includes/common/user_optional_params_check.php:72
+#: includes/common/user_optional_params_check.php:98
+msgid "Actualizar"
+msgstr "Update"
+
+#: includes/dbsetup.php:110
+msgid ""
+"La actualización falló!  (No se puede actualizar la version en la tabla de "
+"configuración)"
+msgstr ""
+
+#: includes/dbsetup.php:114
+msgid "La actualización falló!  Vea /includes/version.php"
+msgstr ""
+
+#: includes/dbsetup.php:118
+msgid ""
+"ADVERTENCIA!!!  El código que estas usando es más ANTIGUO que la version que "
+"instalo la base de datos!"
+msgstr ""
+
+#: includes/dbsetup.php:130
+msgid "Ocurrió un problema al insertar la versión actuali en la base de datos"
+msgstr ""
+
+#: includes/common/user_filter_input.php:22
+#: includes/common/user_filter_input.php:32
+#: includes/common/user_input_table.php:97
+msgid "Apellidos:"
+msgstr "Last Name:"
+
+#: includes/common/user_filter_input.php:22
+#: includes/common/user_filter_input.php:32
+#: includes/common/user_input_table.php:227
+msgid "Departamento:"
+msgstr "State:"
+
+#: includes/common/user_filter_input.php:22
+msgid "Tipo de asistente:"
+msgstr "Attendee kind:"
+
+#: includes/common/user_filter_input.php:32
+#: includes/common/user_input_table.php:161
+msgid "Estudios:"
+msgstr "Education:"
+
+#: includes/common/prop_update_info.php:33
+#: includes/common/user_update_info.php:85
+msgid "Error Fatal: No se puedo insertar/actualizar los datos."
+msgstr ""
+
+#: includes/common/prop_update_info.php:48
+msgid "Tu propuesta de ponencia ha sido registrada."
+msgstr "Your proposals has been added."
+
+#: includes/common/prop_update_info.php:54
+msgid "Tu propuesta de ponencia ha sido actualizada."
+msgstr "Your proposal has been updated"
+
+#: includes/common/prop_update_info.php:58
+msgid ""
+"Si tienes preguntas o la página no funciona correctamente, por favor "
+"contacta a"
+msgstr ""
+
+#: includes/common/prop_update_info.php:58
+#: includes/common/user_update_info.php:103 templates/error_404.tmpl.php:7
+#: templates/admin_menu.tmpl.php:101
+msgid "Administración"
+msgstr "Administration"
+
+#: includes/common/display_login_form.php:10
+#: includes/common/user_input_table.php:58
+msgid "Nombre de Usuario:"
+msgstr "Username:"
+
+#: includes/common/display_login_form.php:15
+#: includes/common/user_input_table.php:69
+msgid "Contraseña:"
+msgstr "Password:"
+
+#: includes/common/display_login_form.php:24
+msgid "Las cookies deben estar habilitadas para pasar este punto."
+msgstr "Cookies must be enabled to login."
+
+#: includes/common/display_login_form.php:25
+msgid "Su sesión caducará despues de 1 hora de inactividad."
+msgstr "Your session will expire until 1 hour"
+
+#: includes/common/display_login_form.php:27 includes/common/user_edit.php:64
+msgid "Iniciar"
+msgstr "Login"
+
+#: includes/common/prop_optional_params_check.php:26
+msgid "El ponente que elegiste no existe. Por favor elige otro."
+msgstr ""
+
+#: includes/common/prop_optional_params_check.php:36
+msgid "Sólo talleres o tutoriales pueden tener durar más de 2 horas"
+msgstr ""
+
+#: includes/common/prop_optional_params_check.php:49
+msgid "El nombre de la ponencia ya ha sido dado de alta."
+msgstr "The proposals title already exists."
+
+#: includes/common/prop_view.php:47
+msgid "Detalles de la ponencia"
+msgstr "Proposal details"
+
+#: includes/common/prop_view.php:55
+msgid "Detalles de los autores"
+msgstr "Authors details"
+
+#: includes/common/prop_view.php:71
+msgid "Comentarios"
+msgstr "Comments"
+
+#: includes/common/prop_view.php:85
+msgid "Enviar"
+msgstr "Submit"
+
+#: includes/common/prop_view.php:99 includes/common/prop_delete.php:77
+msgid "Propuesta no encontrada"
+msgstr "Proposal not found"
+
+#: includes/common/prop_view.php:105
+msgid "No se encontro la propuesta en tus registros."
+msgstr ""
+
+#: includes/common/prop_view.php:109
+msgid ""
+"Registros de propuesta no encontrados. Posiblemente no exista o no tengas "
+"acceso al registro."
+msgstr ""
+
+#: includes/common/signin.php:44
+msgid "Usuario y/o contraseña no válidos. Por favor trate de nuevo."
+msgstr "Username and/or password incorrect. Please try again."
+
+#: includes/common/signin.php:49
+msgid ""
+"Usuario y/o contraseña incorrectos. Por favor intente de nuevo o puede "
+"ingresar a"
+msgstr ""
+
+#: includes/common/signin.php:49
+msgid "Recuperar Contraseña"
+msgstr "Recover password"
+
+#: includes/common/prop_files_edit.php:30
+msgid "Editar archivo"
+msgstr "Edit file"
+
+#: includes/common/prop_files_edit.php:58
+msgid "Ocurrió un error al actualizar el archivo."
+msgstr ""
+
+#: includes/common/prop_files_edit.php:64
+msgid "La información del archivo fue modificada con éxito."
+msgstr ""
+
+#: includes/common/prop_files_edit.php:79
+#: includes/common/prop_files_delete.php:67
+msgid "Propuesta y/o archivo no encontrado"
+msgstr "Proposal and/or file not found"
+
+#: includes/common/prop_files_edit.php:82
+#: includes/common/prop_files_delete.php:70
+msgid ""
+"Registros de propuesta no encontrados. Posiblemente no existan o no tengas "
+"acceso para eliminar los archivos de la propuesta."
+msgstr ""
+
+#: includes/common/new_user_send_mail.php:11
+msgid "posible ponente"
+msgstr ""
+
+#: includes/common/new_user_send_mail.php:23
+msgid "Registro de "
+msgstr "Signup"
+
+#: includes/common/new_user_send_mail.php:25
+#, php-format
+msgid ""
+"\n"
+"Te has registrado como %s al %s\n"
+"\n"
+"Usuario:    %s\n"
+"Contraseña: %s\n"
+"\n"
+"Puedes iniciar sesión entrando a la siguiente dirección:\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"--\n"
+"Equipo %s\n"
+"%s\n"
+"\n"
+msgstr ""
+
+#: includes/common/new_user_send_mail.php:46
+msgid ""
+"Los datos de tu usuario y password han sido enviados al correo que "
+"registraste."
+msgstr ""
+
+#: includes/common/new_user_send_mail.php:47
+msgid ""
+"Es posible que algunos servidores de correo registren el correo como correo "
+"no deseado  o spam y no se encuentre en su carpeta INBOX."
+msgstr ""
+
+#: includes/common/new_user_send_mail.php:53
+msgid "Por razones de seguridad deshabilitamos el envío de correo."
+msgstr "Email send has been disabled for security reasons."
+
+#: includes/common/prop_edit.php:29
+msgid "Nueva propuesta"
+msgstr "New proposal"
+
+#: includes/common/prop_edit.php:38
+msgid "Modificar ponencia"
+msgstr "Edit proposal"
+
+#: includes/common/prop_list.php:8
+msgid "No se encontro ninguna propuesta registrada."
+msgstr ""
+
+#: includes/common/prop_list.php:62
+msgid "Ponencias listadas"
+msgstr "Proposals listed"
+
+#: includes/common/prop_list.php:77 includes/common/prop_list.php:93
+#: includes/common/prop_list.php:117 includes/common/prop_display_info.php:132
+msgid "Archivos"
+msgstr "Files"
+
+#: includes/common/prop_list.php:77 includes/common/prop_list.php:93
+#: includes/common/prop_display_info.php:37
+msgid "Status"
+msgstr "Status"
+
+#: includes/common/prop_list.php:77
+msgid "Asignado"
+msgstr "Assigned"
+
+#: includes/common/prop_list.php:81
+msgid "Modificado por"
+msgstr "Updated by"
+
+#: includes/common/prop_list.php:81
+msgid "Fecha de Modif."
+msgstr "Updated date"
+
+#: includes/common/prop_list.php:85 includes/common/prop_list.php:89
+#: includes/common/prop_list.php:100 includes/common/user_kardex.php:58
+#: includes/common/prop_display_info.php:30
+msgid "Orientación"
+msgstr "Track"
+
+#: includes/common/prop_list.php:89 includes/common/prop_display_info.php:31
+msgid "Duración"
+msgstr "Duration"
+
+#: includes/common/prop_list.php:131 includes/common/prop_files_display.php:31
+msgid "Modificar"
+msgstr "Edit"
+
+#: includes/common/prop_list.php:231 includes/common/prop_filter_input.php:49
+#: includes/common/prop_display_info.php:138 templates/header.tmpl.php:35
+msgid "Usuario"
+msgstr "Username"
+
+#: includes/common/prop_list.php:233 includes/common/prop_filter_input.php:47
+msgid "Ninguno"
+msgstr "None"
+
+#: includes/common/prop_list.php:244
+msgid "Asignar lugar"
+msgstr "Attach room"
+
+#: includes/common/prop_list.php:249 includes/admin_views.php:296
+msgid "Añadir evento"
+msgstr "Add event"
+
+#: includes/common/prop_files_delete.php:30 includes/speaker_views.php:119
+#: includes/speaker_views.php:127
+msgid "Eliminar archivo"
+msgstr "Delete file"
+
+#: includes/common/prop_files_delete.php:58
+msgid "El archivo fue eliminado exitosamente."
+msgstr "File deleted successful"
+
+#: includes/common/prop_comments_input.php:15
+msgid "Comentario:"
+msgstr "Comment:"
+
+#: includes/common/user_display_info.php:23
+#: includes/common/user_input_table.php:135
+msgid "Femenino"
+msgstr "Female"
+
+#: includes/common/user_display_info.php:26
+#: includes/common/user_input_table.php:129
+msgid "Masculino"
+msgstr "Male"
+
+#: includes/common/user_display_info.php:46
+msgid "Usuario Administrador"
+msgstr "Administrator user"
+
+#: includes/common/user_display_info.php:47
+#: includes/common/user_display_info.php:62
+#: includes/common/user_display_info.php:97
+msgid "Nombre(s)"
+msgstr "First Name"
+
+#: includes/common/user_display_info.php:49
+#: includes/common/user_display_info.php:64
+#: includes/common/user_display_info.php:99
+msgid "Correo electrónico"
+msgstr "Email"
+
+#: includes/common/user_display_info.php:50
+msgid "Tipo administrador"
+msgstr "Administrator kind"
+
+#: includes/common/user_display_info.php:61
+#: includes/common/user_display_info.php:85
+#: includes/common/user_display_info.php:96
+#: includes/common/prop_display_info.php:12
+msgid "Nombre de Usuario"
+msgstr "Username"
+
+#: includes/common/user_display_info.php:65
+#: includes/common/user_display_info.php:87
+#: includes/common/user_display_info.php:100
+msgid "Sexo"
+msgstr "Sex"
+
+#: includes/common/user_display_info.php:66
+#: includes/common/user_display_info.php:88
+#: includes/common/user_display_info.php:101
+msgid "Organización"
+msgstr "Organization"
+
+#: includes/common/user_display_info.php:68
+#: includes/common/prop_files_display_info.php:9
+msgid "Título"
+msgstr "Title"
+
+#: includes/common/user_display_info.php:69
+msgid "Domicilio"
+msgstr "Address"
+
+#: includes/common/user_display_info.php:70
+msgid "Telefono"
+msgstr "Phone"
+
+#: includes/common/user_display_info.php:71
+#: includes/common/user_display_info.php:91
+#: includes/common/user_display_info.php:104
+msgid "Ciudad"
+msgstr "City"
+
+#: includes/common/user_display_info.php:72
+#: includes/common/user_display_info.php:105 includes/common/user_list.php:54
+msgid "Departamento"
+msgstr "State"
+
+#: includes/common/user_display_info.php:73
+#: includes/common/user_display_info.php:106
+msgid "Fecha de Nacimiento"
+msgstr "Birthday"
+
+#: includes/common/user_display_info.php:74
+msgid "Resumen Curricular"
+msgstr "Short Bio"
+
+#: includes/common/user_display_info.php:86
+msgid "Correo Electrónico"
+msgstr "Email"
+
+#: includes/common/user_display_info.php:90
+msgid "Tipo Asistente"
+msgstr "Attendee kind"
+
+#: includes/common/user_display_info.php:103
+msgid "Tipo de Asistente"
+msgstr "Attendee kind"
+
+#: includes/common/user_display_info.php:117
+#: includes/common/prop_display_info.php:141
+msgid "Fecha de registro"
+msgstr "Registry date"
+
+#: includes/common/user_display_info.php:118
+#: includes/common/prop_display_info.php:142
+msgid "Fecha de actualización"
+msgstr "Update date"
+
+#: includes/common/prop_files.php:52
+msgid "Archivo registrado exitosamente."
+msgstr ""
+
+#: includes/common/prop_files.php:61
+msgid "Ocurrió un error al registrar el archivo."
+msgstr ""
+
+#: includes/common/prop_files.php:66
+msgid "Error al subir el archivo."
+msgstr ""
+
+#: includes/common/prop_files.php:79
+msgid "Archivos adjuntos de la propuesta"
+msgstr "Files attached to proposal"
+
+#: includes/common/prop_files.php:87
+msgid "Lista de archivos"
+msgstr "Files list"
+
+#: includes/common/prop_files.php:91
+msgid "Subir Archivo"
+msgstr "Upload file"
+
+#: includes/common/prop_files.php:98
+msgid "Subir"
+msgstr "Upload"
+
+#: includes/common/prop_files.php:106 includes/common/prop_delete.php:80
+msgid ""
+"Registros de propuesta no encontrados. Posiblemente no existan o no tengas "
+"acceso para eliminar la propuesta."
+msgstr ""
+
+#: includes/common/prop_comments_display.php:12
+msgid "Esta propuesta no tiene comentarios"
+msgstr "No comments for this proposal"
+
+#: includes/common/prop_filter_input.php:62
+#: includes/common/prop_filter_input.php:103
+msgid "Estado:"
+msgstr "Status:"
+
+#: includes/common/prop_filter_input.php:62
+msgid "Asignado:"
+msgstr "Assigned:"
+
+#: includes/common/prop_filter_input.php:73
+msgid "Modificado por:"
+msgstr "Updated by:"
+
+#: includes/common/prop_filter_input.php:73
+msgid "Ponente:"
+msgstr "Speaker:"
+
+#: includes/common/prop_files_input.php:14
+#: includes/common/user_input_table.php:172
+msgid "Título:"
+msgstr "Title:"
+
+#: includes/common/prop_files_input.php:32
+msgid "Público:"
+msgstr "Public:"
+
+#: includes/common/prop_files_input.php:42
+msgid ""
+"El tamaño máximo de subida es de <strong>2 Mb</strong>, si tu archivo supera "
+"el límite<br /> por favor envíalo a"
+msgstr ""
+
+#: includes/common/prop_files_input.php:46
+msgid "Archivo:"
+msgstr "File:"
+
+#: includes/common/prop_delete.php:29
+msgid "Eliminar propuesta"
+msgstr "Delete proposal"
+
+#: includes/common/prop_delete.php:66
+msgid "La propuesta fue eliminada exitosamente."
+msgstr "The proposal has been deleted successful."
+
+#: includes/common/prop_files_download.php:59
+msgid "Archivo no encontrado"
+msgstr "File not found"
+
+#: includes/common/prop_files_download.php:65
+msgid "El archivo que buscas no esta disponible."
+msgstr ""
+
+#: includes/common/user_kardex.php:9
+msgid ""
+"No tires esta hoja, te servira para asistir a cualquier Conferencia y "
+"Platica Informal, Ademas de los talleres y tutoriales que tengas "
+"registrados. Tambien sirve para confirmar tus participaciones en eventos y "
+"extender tu constancia de asistencia."
+msgstr ""
+
+#: includes/common/user_kardex.php:11 includes/person_views.php:59
+msgid "Hoja de Registro"
+msgstr "Registry info"
+
+#: includes/common/user_kardex.php:57
+msgid "Taller/Tutorial"
+msgstr "Workshop/Tutorial"
+
+#: includes/common/user_kardex.php:62
+msgid "Fecha Inscripción"
+msgstr "Registry date"
+
+#: includes/common/do_login.php:19
+msgid "Inicio de Sesión"
+msgstr "Login"
+
+#: includes/common/do_login.php:26
+msgid "Panel de administración"
+msgstr "Administration panel"
+
+#: includes/common/do_login.php:31
+msgid "Inicio de Sesión Ponente"
+msgstr "Speaker's login"
+
+#: includes/common/do_login.php:35
+msgid "Inicio de Sesión Asistente"
+msgstr "Attendees Log in"
+
+#: includes/common/do_login.php:43
+msgid ""
+"Su sesión ha caducado o no incio correctamente. Por favor trate de nuevo"
+msgstr ""
+
+#: includes/common/prop_files_display_info.php:8
+msgid "Propuesta"
+msgstr "Proposal"
+
+#: includes/common/prop_files_display_info.php:11
+msgid "Nombre de archivo"
+msgstr "Filename"
+
+#: includes/common/prop_files_display_info.php:12
+#: includes/common/prop_files_display.php:19
+msgid "Público"
+msgstr "Public"
+
+#: includes/common/user_input_table.php:60
+msgid " 4 a 15 caracteres"
+msgstr ""
+
+#: includes/common/user_input_table.php:71
+msgid " 6 a 15 caracteres"
+msgstr ""
+
+#: includes/common/user_input_table.php:78
+msgid "Confirmación de Contraseña:"
+msgstr "Confirm password:"
+
+#: includes/common/user_input_table.php:88
+msgid "Nombre(s):"
+msgstr "First Name:"
+
+#: includes/common/user_input_table.php:106
+msgid "Correo Electrónico:"
+msgstr "Email:"
+
+#: includes/common/user_input_table.php:118
+msgid "Tipo administrador:"
+msgstr ""
+
+#: includes/common/user_input_table.php:142
+msgid "Sexo:"
+msgstr "Sex:"
+
+#: includes/common/user_input_table.php:151
+msgid "Organización:"
+msgstr "Organization:"
+
+#: includes/common/user_input_table.php:181
+msgid "Domicilio:"
+msgstr "Address:"
+
+#: includes/common/user_input_table.php:190
+msgid "Teléfono:"
+msgstr "Phone:"
+
+#: includes/common/user_input_table.php:206
+msgid "Tipo de Asistente:"
+msgstr ""
+
+#: includes/common/user_input_table.php:217
+msgid "Ciudad:"
+msgstr "City:"
+
+#: includes/common/user_input_table.php:236
+msgid "Fecha de Nacimiento:"
+msgstr "Birthday:"
+
+#: includes/common/user_input_table.php:249
+msgid "Resumen Curricular:"
+msgstr "Short bio:"
+
+#: includes/common/prop_display_info.php:15
+msgid "Nombre de ponencia"
+msgstr "Proposal title:"
+
+#: includes/common/prop_display_info.php:18
+msgid "Nombre de ponente"
+msgstr "Speaker:"
+
+#: includes/common/prop_display_info.php:24
+msgid "Resumen"
+msgstr "Abstract"
+
+#: includes/common/prop_display_info.php:29
+msgid "Tipo de Propuesta"
+msgstr ""
+
+#: includes/common/prop_display_info.php:31
+#, php-format
+msgid "%d Hrs."
+msgstr ""
+
+#: includes/common/prop_display_info.php:32
+msgid "Nivel"
+msgstr "Level"
+
+#: includes/common/prop_display_info.php:44
+msgid "Correo de contacto"
+msgstr "Contact email"
+
+#: includes/common/prop_display_info.php:66
+msgid "Requisitos técnicos del taller"
+msgstr ""
+
+#: includes/common/prop_display_info.php:70
+msgid "Prerequisitos del Asistente"
+msgstr ""
+
+#: includes/common/prop_display_info.php:127
+msgid "Subir archivos"
+msgstr "Upload files"
+
+#: includes/common/prop_display_info.php:143
+msgid "Actualizado por"
+msgstr "Updated by"
+
+#: includes/common/register_flag_check.php:38
+#, php-format
+msgid "El registro de %s se encuentra cerrado. Gracias por tu interés."
+msgstr ""
+
+#: includes/common/user_view.php:13
+msgid "Propuestas enviadas"
+msgstr "Proposals submitted"
+
+#: includes/common/user_view.php:22
+msgid "Talleres/Tutoriales inscritos"
+msgstr ""
+
+#: includes/common/user_view.php:28
+msgid "Datos de"
+msgstr "Details"
+
+#: includes/common/user_view.php:41
+msgid "Usuario no encontrado"
+msgstr "User not found"
+
+#: includes/common/user_view.php:45
+msgid "El usuario que buscas no existe."
+msgstr ""
+
+#: includes/common/user_edit.php:13
+msgid "Registro de Administrador"
+msgstr "Administrator signup"
+
+#: includes/common/user_edit.php:17
+#: includes/common/user_register_external.php:77
+msgid "Registro de Ponente"
+msgstr "Speaker signup"
+
+#: includes/common/user_edit.php:21
+msgid "Modificar datos de Administrador"
+msgstr "Edit Administrator"
+
+#: includes/common/user_edit.php:31
+msgid "Modificar datos de Ponente"
+msgstr "Edit Speaker"
+
+#: includes/common/user_edit.php:40
+msgid "Modificar datos de Asistente"
+msgstr ""
+
+#: includes/common/user_edit.php:104
+msgid ""
+"Asegúrate de escribir bien tus datos ya que estos serán tomados para tu "
+"constancia de participación."
+msgstr ""
+
+#: includes/common/user_edit.php:107
+msgid "Deja la contraseña vacía para no cambiarla."
+msgstr ""
+
+#: includes/common/user_edit.php:120
+#: includes/common/user_optional_params_check.php:72
+#: includes/common/user_optional_params_check.php:97
+msgid "Registrarme"
+msgstr "Signup"
+
+#: includes/common/user_list.php:18 templates/speaker_menu.tmpl.php:1
+msgid "Ponentes"
+msgstr "Speakers"
+
+#: includes/common/user_list.php:31
+msgid "Control/Asistentes"
+msgstr ""
+
+#: includes/common/user_list.php:36
+msgid "Lista de"
+msgstr "List"
+
+#: includes/common/user_list.php:42
+msgid "registrados"
+msgstr "recorded"
+
+#: includes/common/user_list.php:52
+msgid "Asistio?"
+msgstr ""
+
+#: includes/common/user_list.php:54 templates/main_index.tmpl.php:2
+msgid "Registro"
+msgstr ""
+
+#: includes/common/user_list.php:80
+msgid "+Asistencia"
+msgstr ""
+
+#: includes/common/user_list.php:83
+msgid "-Asistencia"
+msgstr ""
+
+#: includes/common/user_list.php:116
+msgid "No se encontraron registros."
+msgstr ""
+
+#: includes/common/prop_comments_submit.php:11
+msgid "El campo del comentario se encuentra vacío."
+msgstr ""
+
+#: includes/common/prop_comments_submit.php:15
+msgid "El comentario ya ha sido enviado anteriormente."
+msgstr ""
+
+#: includes/common/prop_comments_submit.php:36
+msgid "Comentario registrado con éxito."
+msgstr ""
+
+#: includes/common/prop_comments_submit.php:41
+msgid "Nuevo comentario"
+msgstr "New comment"
+
+#: includes/common/prop_comments_submit.php:43
+#, php-format
+msgid ""
+"\n"
+"Tu propuesta \"%s\" ha recibido un nuevo comentario del usuario %s:\n"
+"\n"
+"%s\n"
+"\n"
+"%s\n"
+"\n"
+"--\n"
+"Equipo %s\n"
+"%s\n"
+"\n"
+msgstr ""
+
+#: includes/common/prop_comments_submit.php:63
+msgid "Ocurrió un error al registrar el comentario."
+msgstr ""
+
+#: includes/common/prop_files_display.php:12
+msgid "Esta propuesta no tiene archivos adjuntos."
+msgstr ""
+
+#: includes/common/prop_files_display.php:19
+msgid "Tamaño"
+msgstr "Size"
+
+#: includes/common/signout.php:28 includes/common/do_logout.php:37
+msgid "Salida de Sesión"
+msgstr "Log out"
+
+#: includes/common/signout.php:32 includes/common/do_logout.php:40
+msgid "Ha salido exitosamente del sistema."
+msgstr ""
+
+#: includes/common/user_update_info.php:92
+msgid "Gracias por darte de alta, ahora ya podrás acceder a tu cuenta."
+msgstr ""
+
+#: includes/common/user_update_info.php:102
+msgid ""
+"Si tienes preguntas o la página no funciona correctamente, por favor\n"
+"contacta a"
+msgstr ""
+
+#: includes/common/prop_input_table.php:21
+msgid "Usuario ponente:"
+msgstr "Speaker username:"
+
+#: includes/common/prop_input_table.php:30
+msgid "Nombre de Ponencia:"
+msgstr "Proposal title:"
+
+#: includes/common/prop_input_table.php:50
+msgid "Nivel:"
+msgstr "Level:"
+
+#: includes/common/prop_input_table.php:64
+msgid "Tipo de Propuesta:"
+msgstr "Proposal type:"
+
+#: includes/common/prop_input_table.php:82
+msgid "Resumen:"
+msgstr "Abstract:"
+
+#: includes/common/prop_input_table.php:88
+msgid "Requisitos técnicos de la ponencia:"
+msgstr ""
+
+#: includes/common/prop_input_table.php:90
+msgid "(Estos son los requisitos necesarios para impartir la ponencia)"
+msgstr ""
+
+#: includes/common/prop_input_table.php:107
+msgid "Prerequisitos para el asistente:"
+msgstr ""
+
+#: includes/common/prop_files_optional_params.php:18
+msgid "Verifica que los datos obligatorios los hayas introducido correctamente"
+msgstr ""
+
+#: includes/common/prop_files_optional_params.php:25
+msgid "El nombre del archivo ya existe."
+msgstr ""
+
+#: includes/common/user_optional_params_check.php:53
+msgid "No puedes cambiar el usuario del administrador principal."
+msgstr ""
+
+#: includes/common/user_optional_params_check.php:58
+msgid ""
+"El nombre de usuario que elegiste se encuentra reservado. Por favor elige "
+"otro."
+msgstr ""
+
+#: includes/common/user_optional_params_check.php:62
+msgid "El correo electrónico no es válido"
+msgstr ""
+
+#: includes/common/user_optional_params_check.php:67
+msgid "El login que elijas debe tener entre 4 y 15 caracteres."
+msgstr ""
+
+#: includes/common/user_optional_params_check.php:76
+msgid "El password debe tener entre 6 y 15 caracteres."
+msgstr ""
+
+#: includes/common/user_optional_params_check.php:81
+msgid "El password no debe ser igual a tu login."
+msgstr ""
+
+#: includes/common/user_optional_params_check.php:87
+msgid "Los passwords no concuerdan."
+msgstr ""
+
+#: includes/common/user_optional_params_check.php:100
+msgid "El usuario que elegiste ya ha sido tomado; por favor elige otro"
+msgstr ""
+
+#: includes/common/user_optional_params_check.php:106
+msgid "El correo electrónico que elegiste ya ha sido registrado."
+msgstr ""
+
+#: includes/common/user_register_external.php:44
+#: includes/common/user_register_external.php:68
+msgid ""
+"No se puede usar la autentificación externa. Por favor contacte al "
+"administrador."
+msgstr ""
+
+#: includes/common/user_register_external.php:48
+msgid "Usuario y/o contraseña incorrecto."
+msgstr ""
+
+#: includes/common/user_register_external.php:61
+msgid "El usuario ya ha sido dado de alta."
+msgstr ""
+
+#: includes/common/user_register_external.php:81
+msgid "Registro de Asistente"
+msgstr "Attendees signup"
+
+#: includes/common/user_register_external.php:85
+msgid ""
+"El sistema se encuentra utilizando autentificación externa. Por favor "
+"ingrese su usuario y contraseña para habilitarlo."
+msgstr ""
+
+#: includes/displaylib.php:248
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/displaylib.php:344
+msgid "Dia"
+msgstr "Day"
+
+#: includes/displaylib.php:347
+msgid "Mes"
+msgstr "Month"
+
+#: includes/displaylib.php:350
+msgid "Año"
+msgstr "Year"
+
+#: includes/displaylib.php:400
+msgid "Por favor verifique lo siguiente"
+msgstr ""
+
+#: includes/speaker_views.php:19
+msgid "Menu ponentes"
+msgstr "Speakers menu"
+
+#: includes/speaker_views.php:32 includes/admin_views.php:449
+#: includes/person_views.php:32
+msgid "Modificar información personal"
+msgstr "Edit personal info"
+
+#: includes/speaker_views.php:58 templates/speaker_menu.tmpl.php:11
+msgid "Enviar propuesta de ponencia"
+msgstr "Submit new proposal"
+
+#: includes/speaker_views.php:81
+msgid "Modificar propuesta"
+msgstr "Edit proposal"
+
+#: includes/speaker_views.php:90
+msgid "Eliminar propuesta de ponencia"
+msgstr "Delete proposal"
+
+#: includes/speaker_views.php:104
+msgid "Adjuntos de la propuesta"
+msgstr "Proposal's files"
+
+#: includes/speaker_views.php:145 templates/speaker_menu.tmpl.php:16
+msgid "Lista de mis eventos programados"
+msgstr "My scheduled events"
+
+#: includes/datalib.php:42
+msgid "Success"
+msgstr "Exito"
+
+#: includes/datalib.php:48
+msgid "Error"
+msgstr "Error"
+
+#: includes/datalib.php:625
+msgid "Error:  Turn off debugging to hide this error."
+msgstr ""
+
+#: includes/datalib.php:628
+msgid "Found more than one record in get_record_sql !"
+msgstr ""
+
+#: includes/datalib.php:631
+msgid "Very strange error in get_record_sql !"
+msgstr ""
+
+#: includes/admin_views.php:19
+msgid "Menu Administración"
+msgstr "Administration menu"
+
+#: includes/admin_views.php:32 templates/admin_menu.tmpl.php:17
+msgid "Agregar ponente"
+msgstr "Add speaker"
+
+#: includes/admin_views.php:40 templates/admin_menu.tmpl.php:21
+msgid "Listado de ponentes"
+msgstr "Speakers list"
+
+#: includes/admin_views.php:49 templates/admin_menu.tmpl.php:48
+msgid "Listado de asistentes"
+msgstr "List attendees"
+
+#: includes/admin_views.php:58
+msgid "Detalles de asistente"
+msgstr "Attendee details"
+
+#: includes/admin_views.php:67
+msgid "Control de asistentes"
+msgstr "Attendees Control"
+
+#: includes/admin_views.php:83
+msgid "Detalles de ponente"
+msgstr "Speaker details"
+
+#: includes/admin_views.php:92 templates/admin_menu.tmpl.php:25
+msgid "Agregar ponencia"
+msgstr "Add proposal"
+
+#: includes/admin_views.php:100
+msgid "Listado de propuestas enviadas"
+msgstr "Submitted proposal list"
+
+#: includes/admin_views.php:116 includes/admin_views.php:155
+msgid "Detalles de ponencia"
+msgstr "Proposal details"
+
+#: includes/admin_views.php:138
+msgid "Lista de ponencias eliminadas"
+msgstr "Deleted proposal list"
+
+#: includes/admin_views.php:169
+msgid "Eliminar ponencia"
+msgstr "Delete proposal"
+
+#: includes/admin_views.php:182
+msgid "Agregar lugar"
+msgstr "Add room"
+
+#: includes/admin_views.php:190
+msgid "Lista de lugares para eventos"
+msgstr ""
+
+#: includes/admin_views.php:200
+msgid "Editar lugar"
+msgstr "Edit room"
+
+#: includes/admin_views.php:209
+msgid "Eliminar lugar"
+msgstr "Delete room"
+
+#: includes/admin_views.php:218
+msgid "Listado de eventos por lugar"
+msgstr ""
+
+#: includes/admin_views.php:239
+msgid "Agregar fecha"
+msgstr "Add date"
+
+#: includes/admin_views.php:247
+msgid "Lista de fechas para eventos"
+msgstr ""
+
+#: includes/admin_views.php:257
+msgid "Editar fecha"
+msgstr "Edit date"
+
+#: includes/admin_views.php:266
+msgid "Eliminar fecha"
+msgstr "Delete date"
+
+#: includes/admin_views.php:275
+msgid "Listado de eventos por fecha"
+msgstr ""
+
+#: includes/admin_views.php:304
+msgid ""
+"No se encontro ninguna ponencia habilitada o ya se encuentran programadas."
+msgstr ""
+
+#: includes/admin_views.php:306
+msgid "Listado de ponencias listas para ser programadas"
+msgstr ""
+
+#: includes/admin_views.php:323
+msgid "Listado de ponencias habilitadas"
+msgstr ""
+
+#: includes/admin_views.php:332
+msgid "Reprogramar Evento"
+msgstr ""
+
+#: includes/admin_views.php:340
+msgid "Listado de eventos programados"
+msgstr ""
+
+#: includes/admin_views.php:376
+msgid "Configuración del Sistema"
+msgstr "System configuration"
+
+#: includes/admin_views.php:390
+msgid "Administrar Catálogos del Sistema"
+msgstr ""
+
+#: includes/admin_views.php:398
+msgid "Nuevo administrador"
+msgstr "New administrator"
+
+#: includes/admin_views.php:425
+msgid "Eliminar administrador"
+msgstr "Delete administrator"
+
+#: includes/admin_views.php:433
+msgid "Eliminar ponente"
+msgstr "Delete speaker"
+
+#: includes/admin_views.php:441
+msgid "Eliminar asistente"
+msgstr ""
+
+#: includes/admin_views.php:462
+msgid "Programa de Eventos"
+msgstr "Event's Schedule"
+
+#: includes/admin_views.php:471 includes/admin_views.php:479
+#: templates/admin_menu.tmpl.php:56
+msgid "Agregar evento"
+msgstr "Add event"
+
+#: includes/person_views.php:19
+msgid "Menu asistentes"
+msgstr ""
+
+#: includes/person_views.php:48
+msgid "Lista de eventos programados"
+msgstr ""
+
+#: templates/person_menu.tmpl.php:3 templates/speaker_menu.tmpl.php:3
+msgid "Bienvenido"
+msgstr "Welcome"
+
+#: templates/person_menu.tmpl.php:11 templates/speaker_menu.tmpl.php:10
+#: templates/admin_menu.tmpl.php:114
+msgid "Modificar mis datos"
+msgstr "Edit my info"
+
+#: templates/person_menu.tmpl.php:12
+msgid "Hoja de registro"
+msgstr "Registry date"
+
+#: templates/person_menu.tmpl.php:22
+msgid "Registro a talleres y/o tutoriales"
+msgstr ""
+
+#: templates/person_menu.tmpl.php:23
+msgid "Listas eventos programados"
+msgstr "List schedule events"
+
+#: templates/proposals_info.tmpl.php:3
+msgid "Modalidades"
+msgstr ""
+
+#: templates/proposals_info.tmpl.php:5
+msgid "Conferencias"
+msgstr "Conferences"
+
+#: templates/proposals_info.tmpl.php:6
+msgid ""
+"Una conferencia aborda un tema determinado (técnico, filosófico, de\n"
+"opinión, etc). En ella el ponente presenta el tema a desarrollar ante\n"
+"un auditorio. Las conferencias seran impartidas en el auditorio principal.\n"
+"Se les dedica tipicamente sesiones de 1 hora (algunas 2 horas)."
+msgstr ""
+
+#: templates/proposals_info.tmpl.php:11
+msgid "Charlas Informales"
+msgstr "Talks"
+
+#: templates/proposals_info.tmpl.php:12
+msgid ""
+"Una conferencia informal esta orientada a aquellas personas que\n"
+"quieran presentar algun tema, propuesta,  presentación, software, etc.\n"
+"Estas no se rigen por el formato típico ponente-auditorio, es mas bien una\n"
+"ponencia o reunión entre entusiastas o interesados en el tema donde el\n"
+"ponente presenta su tema en una ambiente mucho mas relajado e interactivo\n"
+"con los asistentes. A estas se les dedica tipicamente de 1 a 2 horas."
+msgstr ""
+
+#: templates/proposals_info.tmpl.php:19
+msgid "Talleres"
+msgstr "Workshops"
+
+#: templates/proposals_info.tmpl.php:20
+msgid ""
+"Un taller aborda a profundidad un tema técnico determinado,\n"
+"dedicándole una sesión de hasta cuatro horas, es didáctico y práctico por\n"
+"naturaleza. Los talleres serán impartidos laboratorios de cómputo, de modo\n"
+"que todos los asistentes puedan ir aprendiendo y poniendo en práctica de\n"
+"inmediato lo que el ponente está presentando."
+msgstr ""
+
+#: templates/proposals_info.tmpl.php:26
+msgid "Tutoriales"
+msgstr "Tutorials"
+
+#: templates/proposals_info.tmpl.php:27
+msgid ""
+"Un tutorial aborda un tema técnico determinado, dedicándole por\n"
+"lo menos una sesión de dos horas. Los temas muchas veces serán teóricos.\n"
+"Los tutoriales seran impartidos en salones o laboratorios de computo donde\n"
+"el ponente ira presentando a los asistentes el tema tratado.\n"
+"Los tutoriales van a un ritmo mucho más ágil que los talleres."
+msgstr ""
+
+#: templates/proposals_info.tmpl.php:33
+msgid "Conferencias Magistrales"
+msgstr ""
+
+#: templates/proposals_info.tmpl.php:34
+msgid ""
+"Las conferencias magistrales serán impartidas por profesionales\n"
+"de la tecnología de la información de alto nivel, líderes de opinión o\n"
+"desarrolladores destacados de la comunidad del software libre."
+msgstr ""
+
+#: templates/proposals_info.tmpl.php:38
+msgid ""
+"En las conferencias magistrales se expondrán los temas o tópicos\n"
+"que vayan de acuerdo al hilo central del evento."
+msgstr ""
+
+#: templates/error_404.tmpl.php:1
+msgid "Error 404 - Página no encontrada"
+msgstr "404 Error - Page not found"
+
+#: templates/error_404.tmpl.php:3
+msgid ""
+"La página que ingresaste no existe.\n"
+"Posiblemente hayas ingresado incorrectamente la dirección o el\n"
+"enlace ya no existe. Si crees que es un error por favor escribe a"
+msgstr ""
+
+#: templates/admin_menu.tmpl.php:1
+msgid "Bienvenido Administrador"
+msgstr "Welcome administrator"
+
+#: templates/admin_menu.tmpl.php:11
+msgid "Ponencias y Ponentes"
+msgstr "Talks and Speakers"
+
+#: templates/admin_menu.tmpl.php:30
+msgid "Listado de ponencias"
+msgstr "List proposals"
+
+#: templates/admin_menu.tmpl.php:40
+msgid "Eventos y Asistentes"
+msgstr "Events and Attendees"
+
+#: templates/admin_menu.tmpl.php:46
+msgid "Control de asistencias"
+msgstr "Attendees Control"
+
+#: templates/admin_menu.tmpl.php:58
+msgid "Eventos pendientes"
+msgstr "Outstanding Events"
+
+#: templates/admin_menu.tmpl.php:62
+msgid "Listado de eventos"
+msgstr "List events"
+
+#: templates/admin_menu.tmpl.php:66
+msgid "Inscripción a talleres/tutoriales"
+msgstr ""
+
+#: templates/admin_menu.tmpl.php:67
+msgid "Baja de talleres/tutoriales"
+msgstr ""
+
+#: templates/admin_menu.tmpl.php:81
+msgid "Lugares y Fechas"
+msgstr "Rooms and Dates"
+
+#: templates/admin_menu.tmpl.php:85
+msgid "Registrar lugar"
+msgstr "Add room"
+
+#: templates/admin_menu.tmpl.php:86
+msgid "Listado de lugares"
+msgstr "List rooms"
+
+#: templates/admin_menu.tmpl.php:87
+msgid "Registrar fecha"
+msgstr "Add date"
+
+#: templates/admin_menu.tmpl.php:88
+msgid "Listado de fechas"
+msgstr "List dates"
+
+#: templates/admin_menu.tmpl.php:107
+msgid "Configuración"
+msgstr "Configuration"
+
+#: templates/admin_menu.tmpl.php:108
+msgid "Administrar catálogos"
+msgstr "Catalog manager"
+
+#: templates/admin_menu.tmpl.php:109
+msgid "Agregar administrador"
+msgstr "Add administrator"
+
+#: templates/admin_menu.tmpl.php:110
+msgid "Listar administradores"
+msgstr "List Administrators"
+
+#: templates/admin_menu.tmpl.php:111
+msgid "Listar ponencias eliminadas"
+msgstr "Deleted proposals"
+
+#: templates/header.tmpl.php:36
+msgid "Inicio"
+msgstr "Home"
+
+#: templates/header.tmpl.php:37
+msgid "Cerrar Sesión"
+msgstr "Log out"
+
+#: templates/main_index.tmpl.php:4
+msgid "Gracias por tu interés en"
+msgstr ""
+
+#: templates/main_index.tmpl.php:7 templates/main_index.tmpl.php:12
+msgid "Accede a tu cuenta"
+msgstr "Log in"
+
+#: templates/main_index.tmpl.php:9
+msgid ""
+"Es necesario tu registro, mediante el cual podrás enviar ponencias y estar "
+"informado del evento."
+msgstr ""
+
+#: templates/main_index.tmpl.php:14
+msgid ""
+"Es necesario tu registro, mediante el cual podrás realizar preinscripción "
+"así como\n"
+"tambien tu inscripción en los talleres/tutoriales además de mantenerte "
+"informado del evento."
+msgstr ""
+
+#: templates/main_index.tmpl.php:19
+msgid "Lista preliminar de ponencias"
+msgstr "Proposals submitted"
+
+#: templates/main_index.tmpl.php:21
+msgid ""
+"Aquí podrás ver las propuestas ponencias que han sido enviadas y el status "
+"en el que se encuentran dichas ponencias."
+msgstr ""
+
+#: templates/main_index.tmpl.php:29
+msgid "Aquí podrás ver el programa preliminar de ponencias y eventos."
+msgstr ""
+
+#: templates/main_index.tmpl.php:35
+msgid "Modalidades de las ponencias que encontraras en el evento!"
+msgstr ""
+

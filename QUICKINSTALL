@@ -1,0 +1,34 @@
+QUICKINSTALL
+============
+
+Once uploaded to webserver:
+
+1. Create database and grant privileges to yekuana user with password 'yekuana'
+
+mysql> CREATE DATABASE yekuana DEFAULT CHARSET 'utf8';
+
+Note: grant all privileges on dbname.* to 'dbuser'@'dbhost' identified by 'dbpass';
+
+mysql> GRANT ALL PRIVILEGES ON yekuana.* TO 'yekuana'@'localhost' IDENTIFIED BY 'yekuana';
+
+2. Copy config-dist.php to config.php
+   (Note: if you use another values for database name/user/password
+    you need to modify config.php to your needs)
+
+3. Create a directory for proposal files and change write permissions
+
+shell> mkdir /full/path/to/archives
+shell> chmod 777 /full/path/to/archives
+
+4. Edit $CFG->files in config.php
+
+5. Login into your yekuana url http://server/yekuana
+
+That's all!
+
+You can login into admin panel in: http://server/yekuana/?q=admin with default:
+
+Username: admin
+Password: admin
+
+If you have mod_rewrite support, to enable clean urls go into configuration and enable it.

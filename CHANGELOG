@@ -1,0 +1,25 @@
+Yekuana 0.2rc
+- fixed add event scheduler option
+- fixed schedule view
+- fixed redirect (location.href) for users and admin menu
+
+Yupana 0.1alpha1 (old release)
+----------------------------
+- initial alpha release, based on Yacomas 0.3.5alpha
+- Mostly all functions/modules rewrited from scratch
+- Added multiple proposal's files capability
+- Added proposal's comments capability
+- Added new event scheduler option
+- Added catalog manager
+- Added config manager
+- Added support for clean urls with mod_rewrite
+- Added filters on tables
+- Added adodb library
+- Added phpmailer library
+- Added templates for common sections
+- New css stylesheet
+- Added external authentification support
+	* Added drupal auth example
+- Support for multiple tables prefix on same database
+- Localization support with php-gettext
+	* Added english translation
