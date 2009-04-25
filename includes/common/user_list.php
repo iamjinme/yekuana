@@ -70,7 +70,7 @@ if (!empty($users)) {
     $table_data = array();
 
     if (Action == 'controlpersons') {
-        $table_data[] = array(__('Nombre'), __('Login'), __('Estado'), __('Tipo'), __('Asistio?'), '', '');
+        $table_data[] = array(__('Nombre'), __('Login'), __('Estado'), __('Tipo'), __('Asistio?'), '', '', '');
     } else {
         $table_data[] = array(__('Nombre'), __('Login'), __('Departamento'), __('Estudios'), __('Registro'), '');
     }
@@ -99,9 +99,12 @@ END;
             if (empty($user->asistencia)) {
                 $l_asistio = __('No');
                 $action_desc = __('+Asistencia');
+                $cert_action='';
             } else {
                 $l_asistio = '<img src="'.get_url().'/images/checkmark.gif" />';
                 $action_desc = __('-Asistencia');
+                $urlcert = get_url('admin/certificate/'.$user->id);
+                $cert_action = '<a class="verde" href="'.$urlcert.'">Certificado</a>';
             }
 
             $l_action = "<a class=\"verde\" href=\"{$url}\">{$action_desc}</a>";
@@ -113,6 +116,7 @@ END;
                 $user->tasistente,
                 $l_asistio,
                 $l_action,
+                $cert_action,
                 $l_delete
                 );
         } else {

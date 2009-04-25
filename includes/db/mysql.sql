@@ -45,7 +45,6 @@ CREATE TABLE `prefix_administrador` (
   `apellidos` varchar(50) NOT NULL default '',
   `mail` varchar(100) NOT NULL default '',
   `id_tadmin` int(10) NOT NULL default '0',
-  `cedula` varchar(15) NOT NULL default '',
   PRIMARY KEY  (`id`,`login`)
 );
 
@@ -75,7 +74,6 @@ CREATE TABLE `prefix_asistente` (
   `id_estudios` int(10) unsigned NOT NULL default '0',
   `id_tasistente` int(10) unsigned NOT NULL default '0',
   `id_estado` int(10) unsigned NOT NULL default '0',
-  `cedula` varchar(15) NOT NULL default '',
   PRIMARY KEY  (`id`,`login`)
 );
 
@@ -252,7 +250,6 @@ CREATE TABLE `prefix_ponente` (
   `act_time` timestamp NOT NULL default CURRENT_TIMESTAMP on update CURRENT_TIMESTAMP,
   `id_estudios` int(10) unsigned NOT NULL default '0',
   `id_estado` int(10) unsigned NOT NULL default '0',
-  `cedula` varchar(15) NOT NULL default '',
   PRIMARY KEY  (`id`,`login`)
 );
 

@@ -33,6 +33,10 @@ tambien tu inscripción en los talleres/tutoriales además de mantenerte informa
     <h3><a href="<?=get_url('general/information') ?>"><?=__('Modalidades de participación') ?></a></h3>
 
     <p><?=__('Modalidades de las ponencias que encontraras en el evento!') ?></p>
+    
+    <h3><a href="<?=get_url('admin') ?>"><?=__('Panel de Administraci�n') ?></a></h3>
+
+    <p><?=__('Iniciar sesi&oacute;n como administrador') ?></p>
 </div>
 
 <div class="block"></div>

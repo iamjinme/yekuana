@@ -490,7 +490,18 @@ elseif (level_admin(2) && preg_match('#^admin/schedule/add/\d+/\d+/\d+/\d+$#', $
     include($CFG->admdir . 'schedule_add.php');
 }
 
-
+/*
+ * Certificados
+ *
+ */
+elseif (preg_match('#^admin/certificate/\d+/?$#', $q)) {
+    define('Action', 'generate');
+    $return_url = get_url('admin/persons/control');
+    
+    #do_header(__('Generar certificado'));
+    include($CFG->admdir . 'certificate.php');
+    #do_submit_cancel('', __('Continuar'), $return_url);
+}
 /*
  *
  *
